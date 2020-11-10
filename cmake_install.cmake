@@ -1,4 +1,4 @@
-# Install script for directory: /home/netsu/Documents/School System
+# Install script for directory: /media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/netsu/Documents/School System/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

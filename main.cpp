@@ -1,7 +1,7 @@
 #include <iostream>
 #include <mariadb/mysql.h>
 
-#include "Database.h"
+#include "Database.hpp"
 
 int main(int argc, char const *argv[])
 {

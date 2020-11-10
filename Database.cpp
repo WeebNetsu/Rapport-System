@@ -2,7 +2,7 @@
 #include <iostream>
 #include <mariadb/mysql.h> 
 
-#include "Database.h"
+#include "Database.hpp"
 
 
 Database::Database(const char *server, const char *user, const char *password, const char *database)

@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS =  -L/usr/include/mariadb/mysql -lmariadbclient -std=c++14 -g
+CXX_FLAGS =  -std=c++14 -L/usr/include/mariadb/mysql -lmariadbclient -g
 

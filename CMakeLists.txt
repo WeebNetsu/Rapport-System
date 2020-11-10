@@ -9,8 +9,8 @@ project(school_rapport)
 add_executable(
   output
   main.cpp
-  Student.h
+  Student.hpp
   Student.cpp
-  Database.h
+  Database.hpp
   Database.cpp
 )

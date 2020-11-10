@@ -6,23 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/netsu/Documents/School System/Database.cpp
+/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/Database.cpp
 iostream
 -
 mariadb/mysql.h
 -
-Database.h
-/home/netsu/Documents/School System/Database.h
+Database.hpp
+/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/Database.hpp
 
-/home/netsu/Documents/School System/Database.h
+/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/Database.hpp
 mariadb/mysql.h
 -
 
-/home/netsu/Documents/School System/main.cpp
+/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/Student.cpp
+
+/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/main.cpp
 iostream
 -
 mariadb/mysql.h
 -
-Database.h
-/home/netsu/Documents/School System/Database.h
+Database.hpp
+/media/netsu/439e5b77-5359-405f-b757-f48b914bfe0a/home/netsu/Documents/Code/C++/Fun/Rapport-System/Database.hpp
 
