@@ -1,0 +1,1 @@
+/usr/bin/c++  -L/usr/include/mariadb/mysql -lmariadbclient -std=c++14 -g -rdynamic CMakeFiles/output.dir/main.cpp.o CMakeFiles/output.dir/Student.cpp.o CMakeFiles/output.dir/Database.cpp.o -o output 

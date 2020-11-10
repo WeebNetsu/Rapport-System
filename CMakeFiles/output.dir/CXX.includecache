@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/netsu/Documents/School System/Database.cpp
+iostream
+-
+mariadb/mysql.h
+-
+Database.h
+/home/netsu/Documents/School System/Database.h
+
+/home/netsu/Documents/School System/Database.h
+mariadb/mysql.h
+-
+
+/home/netsu/Documents/School System/main.cpp
+iostream
+-
+mariadb/mysql.h
+-
+Database.h
+/home/netsu/Documents/School System/Database.h
+

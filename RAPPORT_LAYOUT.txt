@@ -1,0 +1,26 @@
+-------------------------------Rapport--------------------------------------
+| STUDENT_NAME:                                                            |
+| STUDENT_SURNAME:                                                         |
+| STUDENT_GRADE:                                                           |
+| YEAR:                                                                    |
+| NUMBER_OF_SUBJECTS:                                                      |
+|---------------------------------------------------------------------------
+| SUBJECT_1: SUBJECT_NAME ------------- PERSONAL_MARK | GRADE_AVERAGE      |
+| SUBJECT_2:                                                               |
+| SUBJECT_3:                                                               |
+| SUBJECT_4:                                                               |
+| SUBJECT_5:                                                               |
+| SUBJECT_6:                                                               |
+| SUBJECT_7:                                                               |
+| AVERAGE_MARK:                                                            |
+|---------------------------------------------------------------------------
+| DO_THEY_PASS:                                                            |
+| PASSING_REQUIREMENTS: ---------------- 3 SUBJECTS ABOVE 50%              |
+|                                        2 SUBJECTS ABOVE 40%              |
+|                                        1 SUBJECT ABOVE 30%               |
+|---------------------------------------------------------------------------
+| TEACHERS_NOTE: They were bla-bla-bla....                                 |
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|__________________________________________________________________________|

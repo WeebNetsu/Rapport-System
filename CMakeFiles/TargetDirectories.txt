@@ -1,0 +1,3 @@
+/home/netsu/Documents/School System/CMakeFiles/rebuild_cache.dir
+/home/netsu/Documents/School System/CMakeFiles/edit_cache.dir
+/home/netsu/Documents/School System/CMakeFiles/output.dir
