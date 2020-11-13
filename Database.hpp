@@ -1,7 +1,8 @@
 #ifndef DATABASE_H
 #define DATABASE_H 
 
-#include <mariadb/mysql.h> // /usr/includes/mariadb/mysql.h
+#include </usr/include/mysql/mysql.h>
+// #include <mariadb/mysql.h> // /usr/includes/mariadb/mysql.h
 
 class Database
 {

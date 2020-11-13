@@ -1,9 +1,8 @@
 // g++ connectdb.cpp -o output -L/usr/include/mariadb/mysql -lmariadbclient
 #include <iostream>
-#include <mariadb/mysql.h> 
+#include </usr/include/mysql/mysql.h>
 
 #include "Database.hpp"
-
 
 Database::Database(const char *server, const char *user, const char *password, const char *database)
 {
