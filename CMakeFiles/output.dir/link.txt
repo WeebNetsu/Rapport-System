@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/output.dir/Database.cpp.o CMakeFiles/output.dir/Student.cpp.o CMakeFiles/output.dir/PythonCode.cpp.o CMakeFiles/output.dir/main.cpp.o -o output  /usr/lib/x86_64-linux-gnu/libpython3.6m.so /usr/lib/x86_64-linux-gnu/libmysqlclient.so 
